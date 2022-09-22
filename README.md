@@ -1,8 +1,8 @@
 ## Olá, eu sou o Roberto Borges, estudante de programação e tecnologia!
 <div align="center">
   <a href="https://github.com/lrobertoborges">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api?username=lrobertoborges&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lrobertoborges&layout=compact&langs_count=7&theme=great-gatsby"/>
+  <img height="156em" src="https://github-readme-stats.vercel.app/api?username=lrobertoborges&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img height="156em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lrobertoborges&layout=compact&langs_count=7&theme=great-gatsby"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Roberto-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
