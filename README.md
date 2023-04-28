@@ -1,4 +1,4 @@
-## Olá, eu sou o Roberto Borges, estudante de programação e tecnologia!
+## Olá, eu sou o Luiz Borges, estudante de programação e tecnologia!
 <div align="center">
   <a href="https://github.com/lrobertoborges">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=lrobertoborges&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
